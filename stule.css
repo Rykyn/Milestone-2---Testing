@@ -1,0 +1,13 @@
+button {
+  width:50%;
+  height: 50px;
+  transition: background-color 5s, font-size 2s, width 5s, color 5s;
+  font-size:14px;
+}
+
+button:hover {
+  background-color: #170BEB;
+  font-size: 28px;
+  width: 100%;
+  color: #5DFA82;
+}
